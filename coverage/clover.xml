@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1716437463124" clover="3.2.0">
+  <project timestamp="1716437463124" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="18" coveredconditionals="18" methods="4" coveredmethods="4" elements="43" coveredelements="43" complexity="0" loc="21" ncloc="21" packages="3" files="3" classes="3"/>
+    <package name="capCadena">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="funcioncapcadena.js" path="F:\Archivos\Desktop\20240430-Testing-main\20240430-Testing-main\src\capCadena\funcioncapcadena.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="factorial">
+      <metrics statements="6" coveredstatements="6" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <file name="funcionfactorial.js" path="F:\Archivos\Desktop\20240430-Testing-main\20240430-Testing-main\src\factorial\funcionfactorial.js">
+        <metrics statements="6" coveredstatements="6" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="3" count="10" type="cond" truecount="5" falsecount="0"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="numPrimo">
+      <metrics statements="10" coveredstatements="10" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <file name="funcionprimo.js" path="F:\Archivos\Desktop\20240430-Testing-main\20240430-Testing-main\src\numPrimo\funcionprimo.js">
+        <metrics statements="10" coveredstatements="10" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="4" count="6" type="cond" truecount="5" falsecount="0"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
